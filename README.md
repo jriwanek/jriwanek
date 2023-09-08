@@ -1,4 +1,5 @@
-### Hi there 👋
+![hathach's GitHub stats](https://github-readme-stats.vercel.app/api?username=jriwanek&count_private=true&show_icons=true&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jriwanek&layout=compact&theme=noctis_minimus)
 
 <!--
 **jriwanek/jriwanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
